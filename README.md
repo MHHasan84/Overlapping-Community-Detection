@@ -50,7 +50,7 @@ Follow these steps to run the code on your local machine.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/MHHasan84/Overlapping-Community-Detection.git
    ```
 2. Install PyTorch
    ```sh
